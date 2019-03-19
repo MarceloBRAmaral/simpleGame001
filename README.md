@@ -4,7 +4,7 @@ Just a simple game where you control a green box with the cursor.
 
 You start with 10 Health Points and 3 red rectangles as your enemies.
 
-Every time an enemy hits you you loose some HP.
+You loose some HP every time an enemy hits you.
 
 Every 4 seconds the difficulty is increased as a new enemy spawns.
 
